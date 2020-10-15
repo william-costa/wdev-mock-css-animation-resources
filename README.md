@@ -4,6 +4,13 @@ Repositório complementar do canal [WDEV](https://youtube.com/wdevoficial) para 
 
 ___________________
 
+## Vídeo WDEV
+
+Para assistir o vídeo dessa implementação, acesse: [Criando animações e transições em CSS (YouTube)](https://www.youtube.com/watch?v=JJiyguTeBzU)
+
+___________________
+
+
 ## Imagens
 
 * **Relógio:**  
